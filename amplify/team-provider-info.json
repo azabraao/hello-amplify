@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-postagran-dev-175410-authRole",
+      "UnauthRoleArn": "arn:aws:iam::676061215082:role/amplify-postagran-dev-175410-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::676061215082:role/amplify-postagran-dev-175410-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-postagran-dev-175410-deployment",
+      "UnauthRoleName": "amplify-postagran-dev-175410-unauthRole",
+      "StackName": "amplify-postagran-dev-175410",
+      "StackId": "arn:aws:cloudformation:us-east-2:676061215082:stack/amplify-postagran-dev-175410/60f97020-b42d-11eb-bb3d-0a1d6935059e",
+      "AmplifyAppId": "d2n6lrtwnw9bzt"
+    },
+    "categories": {
+      "auth": {
+        "postagran28332131": {}
+      }
+    }
+  }
+}
